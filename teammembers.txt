@@ -1,0 +1,15 @@
+SmartDine: Restaurant Seating Optimization Using Stochastic Processes
+
+Member 1 -
+B. Sriman Reddy
+S20230010049
+B.Tech CSE
+IIIT Sri City, India
+srimanreddy.b23@iiits.in
+
+Member - 2
+B. Vishwesh
+S20230010048
+B.Tech CSE
+IIIT Sri City, India
+vishwesh.b23@iiits.in
